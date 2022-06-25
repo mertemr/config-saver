@@ -1,2 +1,4 @@
 # config-saver
-Config saver written in Python
+Config saver is a simple tool to save and load config files.
+
+## Not Implemented Yet!
